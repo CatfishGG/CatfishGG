@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python and Rust<br>👨🏽‍💻 24 year old retard <br>💻 Fields of Interest : Knowledge <br>😄 Pronouns: He/Him
+🌱 I’m currently learning Python and Rust<br>👨🏽‍💻 24 years old <br>💻 Fields of Interest : Knowledge <br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
